@@ -16,11 +16,11 @@
 
 <h2>📊 Profile Stats 📊</h2>
   
-![MattMacCollum's Stats](https://github-readme-stats.vercel.app/api?username=MattMacCollum&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![MMacCollum's Stats](https://github-readme-stats.vercel.app/api?username=MMacCollum&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-  ![MattMacCollum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MattMacCollum&theme=vue-dark&hide_border=true)
+  ![MMacCollum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMacCollum&theme=vue-dark&hide_border=true)
 
-  ![MattMacCollum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattMacCollum&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  ![MMacCollum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMacCollum&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
